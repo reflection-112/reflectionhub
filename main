@@ -1,8 +1,8 @@
 repeat wait() until game:IsLoaded()
 if game.PlaceId == 2753915549 then 
-    loadstring(game:HttpGet(('https://raw.githubusercontent.com/reflection-112/reflectionhub/main/bloxfruit'),true))()
+	loadstring(game:HttpGet(('https://raw.githubusercontent.com/reflection-112/reflectionhub/main/bloxfruit'),true))()
 elseif game.PlaceId == 2788229376 then
-    loadstring(game.HttpGet(('https://raw.githubusercontent.com/reflection-112/reflectionhub/main/dahood'),true))()
+	loadstring(game.HttpGet(('https://raw.githubusercontent.com/reflection-112/reflectionhub/main/dahood'),true))()
 elseif
 	loadstring(game.HttpGet(('https://raw.githubusercontent.com/reflection-112/reflectionhub/main/uni'),true))()
 end
